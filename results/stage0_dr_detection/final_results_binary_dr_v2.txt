@@ -1,0 +1,15 @@
+FINAL BINARY DR RESULTS
+------------------------
+Best Threshold: 0.7400000000000004
+Validation Accuracy: 0.8095644748078565
+ROC AUC: 0.7943711326735171
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.82      0.94      0.88      5118
+         1.0       0.75      0.45      0.56      1908
+
+    accuracy                           0.81      7026
+   macro avg       0.78      0.70      0.72      7026
+weighted avg       0.80      0.81      0.79      7026
